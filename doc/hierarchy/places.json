@@ -1,0 +1,2512 @@
+{
+    "0": [
+        "root",
+        "outdoor, man-made",
+        "transportation (roads, parking, bridges, boats, airports, etc.)",
+        "/a/airfield"
+    ],
+    "1": [
+        "root",
+        "indoor",
+        "transportation (vehicle interiors, stations, etc.)",
+        "/a/airplane_cabin"
+    ],
+    "2": [
+        "root",
+        "indoor",
+        "transportation (vehicle interiors, stations, etc.)",
+        "/a/airport_terminal"
+    ],
+    "3": [
+        "root",
+        "indoor",
+        "home or hotel",
+        "/a/alcove"
+    ],
+    "4": [
+        "root",
+        "outdoor, man-made",
+        "commercial buildings, shops, markets, cities, and towns",
+        "/a/alley"
+    ],
+    "5": [
+        "root",
+        "outdoor, man-made",
+        "cultural or historical building/place (millitary, religious)",
+        "/a/amphitheater"
+    ],
+    "6": [
+        "root",
+        "indoor",
+        "sports and leisure",
+        "/a/amusement_arcade"
+    ],
+    "7": [
+        "root",
+        "outdoor, man-made",
+        "sports fields, parks, leisure spaces",
+        "/a/amusement_park"
+    ],
+    "8": [
+        "root",
+        "outdoor, man-made",
+        "commercial buildings, shops, markets, cities, and towns",
+        "/a/apartment_building/outdoor"
+    ],
+    "9": [
+        "root",
+        "indoor",
+        "cultural (art, education, religion, millitary, law, politics, etc.)",
+        "/a/aquarium"
+    ],
+    "10": [
+        "root",
+        [
+            "outdoor, natural",
+            "outdoor, man-made"
+        ],
+        [
+            "man-made elements",
+            "cultural or historical building/place (millitary, religious)"
+        ],
+        "/a/aqueduct"
+    ],
+    "11": [
+        "root",
+        "indoor",
+        "cultural (art, education, religion, millitary, law, politics, etc.)",
+        "/a/arcade"
+    ],
+    "12": [
+        "root",
+        "outdoor, man-made",
+        "cultural or historical building/place (millitary, religious)",
+        "/a/arch"
+    ],
+    "13": [
+        "root",
+        "outdoor, man-made",
+        "cultural or historical building/place (millitary, religious)",
+        "/a/archaelogical_excavation"
+    ],
+    "14": [
+        "root",
+        "indoor",
+        "cultural (art, education, religion, millitary, law, politics, etc.)",
+        "/a/archive"
+    ],
+    "15": [
+        "root",
+        "indoor",
+        "sports and leisure",
+        "/a/arena/hockey"
+    ],
+    "16": [
+        "root",
+        "indoor",
+        "sports and leisure",
+        "/a/arena/performance"
+    ],
+    "17": [
+        "root",
+        "indoor",
+        "sports and leisure",
+        "/a/arena/rodeo"
+    ],
+    "18": [
+        "root",
+        "outdoor, man-made",
+        "cultural or historical building/place (millitary, religious)",
+        "/a/army_base"
+    ],
+    "19": [
+        "root",
+        "indoor",
+        "cultural (art, education, religion, millitary, law, politics, etc.)",
+        "/a/art_gallery"
+    ],
+    "20": [
+        "root",
+        "indoor",
+        "cultural (art, education, religion, millitary, law, politics, etc.)",
+        "/a/art_school"
+    ],
+    "21": [
+        "root",
+        "indoor",
+        "cultural (art, education, religion, millitary, law, politics, etc.)",
+        "/a/art_studio"
+    ],
+    "22": [
+        "root",
+        "indoor",
+        "cultural (art, education, religion, millitary, law, politics, etc.)",
+        "/a/artists_loft"
+    ],
+    "23": [
+        "root",
+        "indoor",
+        "workplace (office building, factory, lab, etc.)",
+        "/a/assembly_line"
+    ],
+    "24": [
+        "root",
+        "outdoor, man-made",
+        "sports fields, parks, leisure spaces",
+        "/a/athletic_field/outdoor"
+    ],
+    "25": [
+        "root",
+        "indoor",
+        "workplace (office building, factory, lab, etc.)",
+        "/a/atrium/public"
+    ],
+    "26": [
+        "root",
+        "indoor",
+        "home or hotel",
+        "/a/attic"
+    ],
+    "27": [
+        "root",
+        "indoor",
+        "cultural (art, education, religion, millitary, law, politics, etc.)",
+        "/a/auditorium"
+    ],
+    "28": [
+        "root",
+        "indoor",
+        "workplace (office building, factory, lab, etc.)",
+        "/a/auto_factory"
+    ],
+    "29": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/a/auto_showroom"
+    ],
+    "30": [
+        "root",
+        "outdoor, natural",
+        "mountains, hills, desert, sky",
+        "/b/badlands"
+    ],
+    "31": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/b/bakery/shop"
+    ],
+    "32": [
+        "root",
+        "outdoor, man-made",
+        [
+            "houses, cabins, gardens, and farms",
+            "commercial buildings, shops, markets, cities, and towns"
+        ],
+        "/b/balcony/exterior"
+    ],
+    "33": [
+        "root",
+        "outdoor, man-made",
+        [
+            "houses, cabins, gardens, and farms",
+            "commercial buildings, shops, markets, cities, and towns"
+        ],
+        "/b/balcony/interior"
+    ],
+    "34": [
+        "root",
+        "indoor",
+        "sports and leisure",
+        "/b/ball_pit"
+    ],
+    "35": [
+        "root",
+        "indoor",
+        "sports and leisure",
+        "/b/ballroom"
+    ],
+    "36": [
+        "root",
+        "outdoor, natural",
+        "forest, field, jungle",
+        "/b/bamboo_forest"
+    ],
+    "37": [
+        "root",
+        "indoor",
+        [
+            "outdoor, man-made",
+            "workplace (office building, factory, lab, etc.)"
+        ],
+        "/b/bank_vault"
+    ],
+    "38": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/b/banquet_hall"
+    ],
+    "39": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/b/bar"
+    ],
+    "40": [
+        "root",
+        [
+            "outdoor, natural",
+            "outdoor, man-made"
+        ],
+        [
+            "forest, field, jungle",
+            "man-made elements",
+            "houses, cabins, gardens, and farms"
+        ],
+        "/b/barn"
+    ],
+    "41": [
+        "root",
+        "outdoor, man-made",
+        "houses, cabins, gardens, and farms",
+        "/b/barndoor"
+    ],
+    "42": [
+        "root",
+        "outdoor, man-made",
+        "sports fields, parks, leisure spaces",
+        "/b/baseball_field"
+    ],
+    "43": [
+        "root",
+        "indoor",
+        "home or hotel",
+        "/b/basement"
+    ],
+    "44": [
+        "root",
+        "indoor",
+        "sports and leisure",
+        "/b/basketball_court/indoor"
+    ],
+    "45": [
+        "root",
+        "indoor",
+        "home or hotel",
+        "/b/bathroom"
+    ],
+    "46": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/b/bazaar/indoor"
+    ],
+    "47": [
+        "root",
+        "outdoor, man-made",
+        [
+            "cultural or historical building/place (millitary, religious)",
+            "commercial buildings, shops, markets, cities, and towns"
+        ],
+        "/b/bazaar/outdoor"
+    ],
+    "48": [
+        "root",
+        "outdoor, natural",
+        "water, ice, snow",
+        "/b/beach"
+    ],
+    "49": [
+        "root",
+        "outdoor, man-made",
+        "houses, cabins, gardens, and farms",
+        "/b/beach_house"
+    ],
+    "50": [
+        "root",
+        "indoor",
+        [
+            "outdoor, man-made",
+            "cultural (art, education, religion, millitary, law, politics, etc.)"
+        ],
+        "/b/beauty_salon"
+    ],
+    "51": [
+        "root",
+        "indoor",
+        "home or hotel",
+        "/b/bedchamber"
+    ],
+    "52": [
+        "root",
+        "indoor",
+        "home or hotel",
+        "/b/bedroom"
+    ],
+    "53": [
+        "root",
+        "outdoor, man-made",
+        "sports fields, parks, leisure spaces",
+        "/b/beer_garden"
+    ],
+    "54": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/b/beer_hall"
+    ],
+    "55": [
+        "root",
+        "indoor",
+        "transportation (vehicle interiors, stations, etc.)",
+        "/b/berth"
+    ],
+    "56": [
+        "root",
+        "indoor",
+        "workplace (office building, factory, lab, etc.)",
+        "/b/biology_laboratory"
+    ],
+    "57": [
+        "root",
+        [
+            "outdoor, natural",
+            "outdoor, man-made"
+        ],
+        [
+            "water, ice, snow",
+            "forest, field, jungle",
+            "man-made elements",
+            "sports fields, parks, leisure spaces"
+        ],
+        "/b/boardwalk"
+    ],
+    "58": [
+        "root",
+        "outdoor, man-made",
+        "transportation (roads, parking, bridges, boats, airports, etc.)",
+        "/b/boat_deck"
+    ],
+    "59": [
+        "root",
+        [
+            "outdoor, natural",
+            "outdoor, man-made"
+        ],
+        [
+            "water, ice, snow",
+            "man-made elements",
+            "transportation (roads, parking, bridges, boats, airports, etc.)"
+        ],
+        "/b/boathouse"
+    ],
+    "60": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/b/bookstore"
+    ],
+    "61": [
+        "root",
+        "indoor",
+        [
+            "workplace (office building, factory, lab, etc.)",
+            "cultural (art, education, religion, millitary, law, politics, etc.)"
+        ],
+        "/b/booth/indoor"
+    ],
+    "62": [
+        "root",
+        [
+            "outdoor, natural",
+            "outdoor, man-made"
+        ],
+        [
+            "forest, field, jungle",
+            "man-made elements",
+            "houses, cabins, gardens, and farms"
+        ],
+        "/b/botanical_garden"
+    ],
+    "63": [
+        "root",
+        "indoor",
+        "home or hotel",
+        "/b/bow_window/indoor"
+    ],
+    "64": [
+        "root",
+        "indoor",
+        "sports and leisure",
+        "/b/bowling_alley"
+    ],
+    "65": [
+        "root",
+        "indoor",
+        "sports and leisure",
+        "/b/boxing_ring"
+    ],
+    "66": [
+        "root",
+        "outdoor, man-made",
+        "transportation (roads, parking, bridges, boats, airports, etc.)",
+        "/b/bridge"
+    ],
+    "67": [
+        "root",
+        "outdoor, man-made",
+        "commercial buildings, shops, markets, cities, and towns",
+        "/b/building_facade"
+    ],
+    "68": [
+        "root",
+        "outdoor, man-made",
+        "sports fields, parks, leisure spaces",
+        "/b/bullring"
+    ],
+    "69": [
+        "root",
+        "indoor",
+        "cultural (art, education, religion, millitary, law, politics, etc.)",
+        "/b/burial_chamber"
+    ],
+    "70": [
+        "root",
+        "indoor",
+        "transportation (vehicle interiors, stations, etc.)",
+        "/b/bus_interior"
+    ],
+    "71": [
+        "root",
+        [
+            "indoor",
+            "outdoor, man-made"
+        ],
+        [
+            "transportation (vehicle interiors, stations, etc.)",
+            "transportation (roads, parking, bridges, boats, airports, etc.)"
+        ],
+        "/b/bus_station/indoor"
+    ],
+    "72": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/b/butchers_shop"
+    ],
+    "73": [
+        "root",
+        "outdoor, natural",
+        "mountains, hills, desert, sky",
+        "/b/butte"
+    ],
+    "74": [
+        "root",
+        "outdoor, man-made",
+        "houses, cabins, gardens, and farms",
+        "/c/cabin/outdoor"
+    ],
+    "75": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/c/cafeteria"
+    ],
+    "76": [
+        "root",
+        "outdoor, man-made",
+        "sports fields, parks, leisure spaces",
+        "/c/campsite"
+    ],
+    "77": [
+        "root",
+        "outdoor, man-made",
+        "cultural or historical building/place (millitary, religious)",
+        "/c/campus"
+    ],
+    "78": [
+        "root",
+        "outdoor, natural",
+        "water, ice, snow",
+        "/c/canal/natural"
+    ],
+    "79": [
+        "root",
+        "outdoor, man-made",
+        "transportation (roads, parking, bridges, boats, airports, etc.)",
+        "/c/canal/urban"
+    ],
+    "80": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/c/candy_store"
+    ],
+    "81": [
+        "root",
+        "outdoor, natural",
+        "mountains, hills, desert, sky",
+        "/c/canyon"
+    ],
+    "82": [
+        "root",
+        "indoor",
+        "transportation (vehicle interiors, stations, etc.)",
+        "/c/car_interior"
+    ],
+    "83": [
+        "root",
+        "outdoor, man-made",
+        "sports fields, parks, leisure spaces",
+        "/c/carrousel"
+    ],
+    "84": [
+        "root",
+        "outdoor, man-made",
+        "cultural or historical building/place (millitary, religious)",
+        "/c/castle"
+    ],
+    "85": [
+        "root",
+        "indoor",
+        "cultural (art, education, religion, millitary, law, politics, etc.)",
+        "/c/catacomb"
+    ],
+    "86": [
+        "root",
+        "outdoor, man-made",
+        "cultural or historical building/place (millitary, religious)",
+        "/c/cemetery"
+    ],
+    "87": [
+        "root",
+        "outdoor, man-made",
+        "houses, cabins, gardens, and farms",
+        "/c/chalet"
+    ],
+    "88": [
+        "root",
+        "indoor",
+        "workplace (office building, factory, lab, etc.)",
+        "/c/chemistry_lab"
+    ],
+    "89": [
+        "root",
+        "indoor",
+        "home or hotel",
+        "/c/childs_room"
+    ],
+    "90": [
+        "root",
+        "indoor",
+        "cultural (art, education, religion, millitary, law, politics, etc.)",
+        "/c/church/indoor"
+    ],
+    "91": [
+        "root",
+        "outdoor, man-made",
+        "cultural or historical building/place (millitary, religious)",
+        "/c/church/outdoor"
+    ],
+    "92": [
+        "root",
+        "indoor",
+        "cultural (art, education, religion, millitary, law, politics, etc.)",
+        "/c/classroom"
+    ],
+    "93": [
+        "root",
+        "indoor",
+        "workplace (office building, factory, lab, etc.)",
+        "/c/clean_room"
+    ],
+    "94": [
+        "root",
+        "outdoor, natural",
+        "mountains, hills, desert, sky",
+        "/c/cliff"
+    ],
+    "95": [
+        "root",
+        "indoor",
+        "home or hotel",
+        "/c/closet"
+    ],
+    "96": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/c/clothing_store"
+    ],
+    "97": [
+        "root",
+        "outdoor, natural",
+        "water, ice, snow",
+        "/c/coast"
+    ],
+    "98": [
+        "root",
+        "indoor",
+        "transportation (vehicle interiors, stations, etc.)",
+        "/c/cockpit"
+    ],
+    "99": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/c/coffee_shop"
+    ],
+    "100": [
+        "root",
+        "indoor",
+        "workplace (office building, factory, lab, etc.)",
+        "/c/computer_room"
+    ],
+    "101": [
+        "root",
+        "indoor",
+        "cultural (art, education, religion, millitary, law, politics, etc.)",
+        "/c/conference_center"
+    ],
+    "102": [
+        "root",
+        "indoor",
+        "workplace (office building, factory, lab, etc.)",
+        "/c/conference_room"
+    ],
+    "103": [
+        "root",
+        "outdoor, man-made",
+        "industrial and construction",
+        "/c/construction_site"
+    ],
+    "104": [
+        "root",
+        "outdoor, natural",
+        "forest, field, jungle",
+        "/c/corn_field"
+    ],
+    "105": [
+        "root",
+        [
+            "outdoor, natural",
+            "outdoor, man-made"
+        ],
+        [
+            "forest, field, jungle",
+            "man-made elements",
+            "houses, cabins, gardens, and farms"
+        ],
+        "/c/corral"
+    ],
+    "106": [
+        "root",
+        "indoor",
+        "workplace (office building, factory, lab, etc.)",
+        "/c/corridor"
+    ],
+    "107": [
+        "root",
+        "outdoor, man-made",
+        "houses, cabins, gardens, and farms",
+        "/c/cottage"
+    ],
+    "108": [
+        "root",
+        "outdoor, man-made",
+        "cultural or historical building/place (millitary, religious)",
+        "/c/courthouse"
+    ],
+    "109": [
+        "root",
+        "outdoor, man-made",
+        [
+            "cultural or historical building/place (millitary, religious)",
+            "houses, cabins, gardens, and farms",
+            "commercial buildings, shops, markets, cities, and towns"
+        ],
+        "/c/courtyard"
+    ],
+    "110": [
+        "root",
+        "outdoor, natural",
+        "water, ice, snow",
+        "/c/creek"
+    ],
+    "111": [
+        "root",
+        "outdoor, natural",
+        "water, ice, snow",
+        "/c/crevasse"
+    ],
+    "112": [
+        "root",
+        "outdoor, man-made",
+        [
+            "transportation (roads, parking, bridges, boats, airports, etc.)",
+            "commercial buildings, shops, markets, cities, and towns"
+        ],
+        "/c/crosswalk"
+    ],
+    "113": [
+        "root",
+        [
+            "outdoor, natural",
+            "outdoor, man-made"
+        ],
+        [
+            "water, ice, snow",
+            "man-made elements",
+            "industrial and construction"
+        ],
+        "/d/dam"
+    ],
+    "114": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/d/delicatessen"
+    ],
+    "115": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/d/department_store"
+    ],
+    "116": [
+        "root",
+        "outdoor, natural",
+        "mountains, hills, desert, sky",
+        "/d/desert/sand"
+    ],
+    "117": [
+        "root",
+        "outdoor, natural",
+        "mountains, hills, desert, sky",
+        "/d/desert/vegetation"
+    ],
+    "118": [
+        "root",
+        "outdoor, man-made",
+        "transportation (roads, parking, bridges, boats, airports, etc.)",
+        "/d/desert_road"
+    ],
+    "119": [
+        "root",
+        "outdoor, man-made",
+        "commercial buildings, shops, markets, cities, and towns",
+        "/d/diner/outdoor"
+    ],
+    "120": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/d/dining_hall"
+    ],
+    "121": [
+        "root",
+        "indoor",
+        "home or hotel",
+        "/d/dining_room"
+    ],
+    "122": [
+        "root",
+        "indoor",
+        [
+            "outdoor, man-made",
+            "sports and leisure"
+        ],
+        "/d/discotheque"
+    ],
+    "123": [
+        "root",
+        "outdoor, man-made",
+        [
+            "houses, cabins, gardens, and farms",
+            "commercial buildings, shops, markets, cities, and towns"
+        ],
+        "/d/doorway/outdoor"
+    ],
+    "124": [
+        "root",
+        "indoor",
+        "home or hotel",
+        "/d/dorm_room"
+    ],
+    "125": [
+        "root",
+        "outdoor, man-made",
+        "commercial buildings, shops, markets, cities, and towns",
+        "/d/downtown"
+    ],
+    "126": [
+        "root",
+        "indoor",
+        "workplace (office building, factory, lab, etc.)",
+        "/d/dressing_room"
+    ],
+    "127": [
+        "root",
+        "outdoor, man-made",
+        "houses, cabins, gardens, and farms",
+        "/d/driveway"
+    ],
+    "128": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/d/drugstore"
+    ],
+    "129": [
+        "root",
+        "indoor",
+        "workplace (office building, factory, lab, etc.)",
+        "/e/elevator/door"
+    ],
+    "130": [
+        "root",
+        "indoor",
+        "transportation (vehicle interiors, stations, etc.)",
+        "/e/elevator_lobby"
+    ],
+    "131": [
+        "root",
+        "indoor",
+        "workplace (office building, factory, lab, etc.)",
+        "/e/elevator_shaft"
+    ],
+    "132": [
+        "root",
+        "outdoor, man-made",
+        "commercial buildings, shops, markets, cities, and towns",
+        "/e/embassy"
+    ],
+    "133": [
+        "root",
+        "indoor",
+        [
+            "workplace (office building, factory, lab, etc.)",
+            "transportation (vehicle interiors, stations, etc.)"
+        ],
+        "/e/engine_room"
+    ],
+    "134": [
+        "root",
+        "indoor",
+        "transportation (vehicle interiors, stations, etc.)",
+        "/e/entrance_hall"
+    ],
+    "135": [
+        "root",
+        "indoor",
+        [
+            "outdoor, man-made",
+            "workplace (office building, factory, lab, etc.)",
+            "transportation (vehicle interiors, stations, etc.)"
+        ],
+        "/e/escalator/indoor"
+    ],
+    "136": [
+        "root",
+        "outdoor, man-made",
+        "industrial and construction",
+        "/e/excavation"
+    ],
+    "137": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/f/fabric_store"
+    ],
+    "138": [
+        "root",
+        "outdoor, man-made",
+        "houses, cabins, gardens, and farms",
+        "/f/farm"
+    ],
+    "139": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/f/fastfood_restaurant"
+    ],
+    "140": [
+        "root",
+        [
+            "outdoor, natural",
+            "outdoor, man-made"
+        ],
+        [
+            "forest, field, jungle",
+            "man-made elements",
+            "houses, cabins, gardens, and farms"
+        ],
+        "/f/field/cultivated"
+    ],
+    "141": [
+        "root",
+        "outdoor, natural",
+        "forest, field, jungle",
+        "/f/field/wild"
+    ],
+    "142": [
+        "root",
+        "outdoor, man-made",
+        "transportation (roads, parking, bridges, boats, airports, etc.)",
+        "/f/field_road"
+    ],
+    "143": [
+        "root",
+        "outdoor, man-made",
+        "commercial buildings, shops, markets, cities, and towns",
+        "/f/fire_escape"
+    ],
+    "144": [
+        "root",
+        "outdoor, man-made",
+        "commercial buildings, shops, markets, cities, and towns",
+        "/f/fire_station"
+    ],
+    "145": [
+        "root",
+        [
+            "outdoor, natural",
+            "outdoor, man-made"
+        ],
+        [
+            "water, ice, snow",
+            "man-made elements",
+            "sports fields, parks, leisure spaces"
+        ],
+        "/f/fishpond"
+    ],
+    "146": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/f/flea_market/indoor"
+    ],
+    "147": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/f/florist_shop/indoor"
+    ],
+    "148": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/f/food_court"
+    ],
+    "149": [
+        "root",
+        "outdoor, man-made",
+        "sports fields, parks, leisure spaces",
+        "/f/football_field"
+    ],
+    "150": [
+        "root",
+        "outdoor, natural",
+        "forest, field, jungle",
+        "/f/forest/broadleaf"
+    ],
+    "151": [
+        "root",
+        "outdoor, natural",
+        "forest, field, jungle",
+        "/f/forest_path"
+    ],
+    "152": [
+        "root",
+        [
+            "outdoor, natural",
+            "outdoor, man-made"
+        ],
+        [
+            "forest, field, jungle",
+            "man-made elements",
+            "transportation (roads, parking, bridges, boats, airports, etc.)",
+            "sports fields, parks, leisure spaces"
+        ],
+        "/f/forest_road"
+    ],
+    "153": [
+        "root",
+        [
+            "outdoor, natural",
+            "outdoor, man-made"
+        ],
+        [
+            "forest, field, jungle",
+            "man-made elements",
+            "houses, cabins, gardens, and farms"
+        ],
+        "/f/formal_garden"
+    ],
+    "154": [
+        "root",
+        "outdoor, man-made",
+        "cultural or historical building/place (millitary, religious)",
+        "/f/fountain"
+    ],
+    "155": [
+        "root",
+        "indoor",
+        "transportation (vehicle interiors, stations, etc.)",
+        "/g/galley"
+    ],
+    "156": [
+        "root",
+        "indoor",
+        "home or hotel",
+        "/g/garage/indoor"
+    ],
+    "157": [
+        "root",
+        "outdoor, man-made",
+        [
+            "transportation (roads, parking, bridges, boats, airports, etc.)",
+            "houses, cabins, gardens, and farms"
+        ],
+        "/g/garage/outdoor"
+    ],
+    "158": [
+        "root",
+        "outdoor, man-made",
+        [
+            "transportation (roads, parking, bridges, boats, airports, etc.)",
+            "commercial buildings, shops, markets, cities, and towns"
+        ],
+        "/g/gas_station"
+    ],
+    "159": [
+        "root",
+        "outdoor, man-made",
+        "sports fields, parks, leisure spaces",
+        "/g/gazebo/exterior"
+    ],
+    "160": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/g/general_store/indoor"
+    ],
+    "161": [
+        "root",
+        "outdoor, man-made",
+        "commercial buildings, shops, markets, cities, and towns",
+        "/g/general_store/outdoor"
+    ],
+    "162": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/g/gift_shop"
+    ],
+    "163": [
+        "root",
+        "outdoor, natural",
+        "water, ice, snow",
+        "/g/glacier"
+    ],
+    "164": [
+        "root",
+        [
+            "outdoor, natural",
+            "outdoor, man-made"
+        ],
+        [
+            "forest, field, jungle",
+            "man-made elements",
+            "sports fields, parks, leisure spaces"
+        ],
+        "/g/golf_course"
+    ],
+    "165": [
+        "root",
+        "indoor",
+        "workplace (office building, factory, lab, etc.)",
+        "/g/greenhouse/indoor"
+    ],
+    "166": [
+        "root",
+        "outdoor, man-made",
+        "houses, cabins, gardens, and farms",
+        "/g/greenhouse/outdoor"
+    ],
+    "167": [
+        "root",
+        "outdoor, natural",
+        [
+            "water, ice, snow",
+            "mountains, hills, desert, sky"
+        ],
+        "/g/grotto"
+    ],
+    "168": [
+        "root",
+        "indoor",
+        "sports and leisure",
+        "/g/gymnasium/indoor"
+    ],
+    "169": [
+        "root",
+        "indoor",
+        "transportation (vehicle interiors, stations, etc.)",
+        "/h/hangar/indoor"
+    ],
+    "170": [
+        "root",
+        "outdoor, man-made",
+        "transportation (roads, parking, bridges, boats, airports, etc.)",
+        "/h/hangar/outdoor"
+    ],
+    "171": [
+        "root",
+        "outdoor, man-made",
+        "transportation (roads, parking, bridges, boats, airports, etc.)",
+        "/h/harbor"
+    ],
+    "172": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/h/hardware_store"
+    ],
+    "173": [
+        "root",
+        [
+            "outdoor, natural",
+            "outdoor, man-made"
+        ],
+        [
+            "forest, field, jungle",
+            "man-made elements",
+            "houses, cabins, gardens, and farms"
+        ],
+        "/h/hayfield"
+    ],
+    "174": [
+        "root",
+        "outdoor, man-made",
+        "transportation (roads, parking, bridges, boats, airports, etc.)",
+        "/h/heliport"
+    ],
+    "175": [
+        "root",
+        [
+            "outdoor, natural",
+            "outdoor, man-made"
+        ],
+        [
+            "man-made elements",
+            "transportation (roads, parking, bridges, boats, airports, etc.)"
+        ],
+        "/h/highway"
+    ],
+    "176": [
+        "root",
+        "indoor",
+        "home or hotel",
+        "/h/home_office"
+    ],
+    "177": [
+        "root",
+        "indoor",
+        "home or hotel",
+        "/h/home_theater"
+    ],
+    "178": [
+        "root",
+        "outdoor, man-made",
+        "commercial buildings, shops, markets, cities, and towns",
+        "/h/hospital"
+    ],
+    "179": [
+        "root",
+        "indoor",
+        "workplace (office building, factory, lab, etc.)",
+        "/h/hospital_room"
+    ],
+    "180": [
+        "root",
+        "outdoor, natural",
+        "water, ice, snow",
+        "/h/hot_spring"
+    ],
+    "181": [
+        "root",
+        "outdoor, man-made",
+        "commercial buildings, shops, markets, cities, and towns",
+        "/h/hotel/outdoor"
+    ],
+    "182": [
+        "root",
+        "indoor",
+        "home or hotel",
+        "/h/hotel_room"
+    ],
+    "183": [
+        "root",
+        "outdoor, man-made",
+        "houses, cabins, gardens, and farms",
+        "/h/house"
+    ],
+    "184": [
+        "root",
+        "outdoor, man-made",
+        "houses, cabins, gardens, and farms",
+        "/h/hunting_lodge/outdoor"
+    ],
+    "185": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/i/ice_cream_parlor"
+    ],
+    "186": [
+        "root",
+        "outdoor, natural",
+        "water, ice, snow",
+        "/i/ice_floe"
+    ],
+    "187": [
+        "root",
+        "outdoor, natural",
+        "water, ice, snow",
+        "/i/ice_shelf"
+    ],
+    "188": [
+        "root",
+        "indoor",
+        "sports and leisure",
+        "/i/ice_skating_rink/indoor"
+    ],
+    "189": [
+        "root",
+        "outdoor, man-made",
+        "sports fields, parks, leisure spaces",
+        "/i/ice_skating_rink/outdoor"
+    ],
+    "190": [
+        "root",
+        "outdoor, natural",
+        "water, ice, snow",
+        "/i/iceberg"
+    ],
+    "191": [
+        "root",
+        [
+            "outdoor, natural",
+            "outdoor, man-made"
+        ],
+        [
+            "water, ice, snow",
+            "man-made elements",
+            "sports fields, parks, leisure spaces"
+        ],
+        "/i/igloo"
+    ],
+    "192": [
+        "root",
+        "outdoor, man-made",
+        "industrial and construction",
+        "/i/industrial_area"
+    ],
+    "193": [
+        "root",
+        "outdoor, man-made",
+        "commercial buildings, shops, markets, cities, and towns",
+        "/i/inn/outdoor"
+    ],
+    "194": [
+        "root",
+        "outdoor, natural",
+        "water, ice, snow",
+        "/i/islet"
+    ],
+    "195": [
+        "root",
+        "indoor",
+        "sports and leisure",
+        "/j/jacuzzi/indoor"
+    ],
+    "196": [
+        "root",
+        "indoor",
+        "cultural (art, education, religion, millitary, law, politics, etc.)",
+        "/j/jail_cell"
+    ],
+    "197": [
+        "root",
+        "outdoor, man-made",
+        "houses, cabins, gardens, and farms",
+        "/j/japanese_garden"
+    ],
+    "198": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/j/jewelry_shop"
+    ],
+    "199": [
+        "root",
+        "outdoor, man-made",
+        "industrial and construction",
+        "/j/junkyard"
+    ],
+    "200": [
+        "root",
+        "outdoor, man-made",
+        "cultural or historical building/place (millitary, religious)",
+        "/k/kasbah"
+    ],
+    "201": [
+        "root",
+        "outdoor, man-made",
+        "houses, cabins, gardens, and farms",
+        "/k/kennel/outdoor"
+    ],
+    "202": [
+        "root",
+        "indoor",
+        "cultural (art, education, religion, millitary, law, politics, etc.)",
+        "/k/kindergarden_classroom"
+    ],
+    "203": [
+        "root",
+        "indoor",
+        "home or hotel",
+        "/k/kitchen"
+    ],
+    "204": [
+        "root",
+        "outdoor, natural",
+        "water, ice, snow",
+        "/l/lagoon"
+    ],
+    "205": [
+        "root",
+        "outdoor, natural",
+        "water, ice, snow",
+        "/l/lake/natural"
+    ],
+    "206": [
+        "root",
+        "outdoor, man-made",
+        "industrial and construction",
+        "/l/landfill"
+    ],
+    "207": [
+        "root",
+        "outdoor, man-made",
+        "transportation (roads, parking, bridges, boats, airports, etc.)",
+        "/l/landing_deck"
+    ],
+    "208": [
+        "root",
+        "indoor",
+        [
+            "workplace (office building, factory, lab, etc.)",
+            "home or hotel"
+        ],
+        "/l/laundromat"
+    ],
+    "209": [
+        "root",
+        "outdoor, man-made",
+        "sports fields, parks, leisure spaces",
+        "/l/lawn"
+    ],
+    "210": [
+        "root",
+        "indoor",
+        "cultural (art, education, religion, millitary, law, politics, etc.)",
+        "/l/lecture_room"
+    ],
+    "211": [
+        "root",
+        "indoor",
+        "cultural (art, education, religion, millitary, law, politics, etc.)",
+        "/l/legislative_chamber"
+    ],
+    "212": [
+        "root",
+        "indoor",
+        "cultural (art, education, religion, millitary, law, politics, etc.)",
+        "/l/library/indoor"
+    ],
+    "213": [
+        "root",
+        "outdoor, man-made",
+        "cultural or historical building/place (millitary, religious)",
+        "/l/library/outdoor"
+    ],
+    "214": [
+        "root",
+        "outdoor, man-made",
+        "cultural or historical building/place (millitary, religious)",
+        "/l/lighthouse"
+    ],
+    "215": [
+        "root",
+        "indoor",
+        "home or hotel",
+        "/l/living_room"
+    ],
+    "216": [
+        "root",
+        "outdoor, man-made",
+        "transportation (roads, parking, bridges, boats, airports, etc.)",
+        "/l/loading_dock"
+    ],
+    "217": [
+        "root",
+        "indoor",
+        "workplace (office building, factory, lab, etc.)",
+        "/l/lobby"
+    ],
+    "218": [
+        "root",
+        "outdoor, man-made",
+        "transportation (roads, parking, bridges, boats, airports, etc.)",
+        "/l/lock_chamber"
+    ],
+    "219": [
+        "root",
+        "indoor",
+        "sports and leisure",
+        "/l/locker_room"
+    ],
+    "220": [
+        "root",
+        "outdoor, man-made",
+        "houses, cabins, gardens, and farms",
+        "/m/mansion"
+    ],
+    "221": [
+        "root",
+        "outdoor, man-made",
+        "houses, cabins, gardens, and farms",
+        "/m/manufactured_home"
+    ],
+    "222": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/m/market/indoor"
+    ],
+    "223": [
+        "root",
+        "outdoor, man-made",
+        "commercial buildings, shops, markets, cities, and towns",
+        "/m/market/outdoor"
+    ],
+    "224": [
+        "root",
+        "outdoor, natural",
+        [
+            "water, ice, snow",
+            "forest, field, jungle"
+        ],
+        "/m/marsh"
+    ],
+    "225": [
+        "root",
+        "indoor",
+        "sports and leisure",
+        "/m/martial_arts_gym"
+    ],
+    "226": [
+        "root",
+        "outdoor, man-made",
+        "cultural or historical building/place (millitary, religious)",
+        "/m/mausoleum"
+    ],
+    "227": [
+        "root",
+        "outdoor, man-made",
+        [
+            "cultural or historical building/place (millitary, religious)",
+            "commercial buildings, shops, markets, cities, and towns"
+        ],
+        "/m/medina"
+    ],
+    "228": [
+        "root",
+        "indoor",
+        "workplace (office building, factory, lab, etc.)",
+        "/m/mezzanine"
+    ],
+    "229": [
+        "root",
+        "outdoor, man-made",
+        "cultural or historical building/place (millitary, religious)",
+        "/m/moat/water"
+    ],
+    "230": [
+        "root",
+        "outdoor, man-made",
+        "cultural or historical building/place (millitary, religious)",
+        "/m/mosque/outdoor"
+    ],
+    "231": [
+        "root",
+        "outdoor, man-made",
+        "commercial buildings, shops, markets, cities, and towns",
+        "/m/motel"
+    ],
+    "232": [
+        "root",
+        "outdoor, natural",
+        "mountains, hills, desert, sky",
+        "/m/mountain"
+    ],
+    "233": [
+        "root",
+        [
+            "outdoor, natural",
+            "outdoor, man-made"
+        ],
+        [
+            "man-made elements",
+            "transportation (roads, parking, bridges, boats, airports, etc.)"
+        ],
+        "/m/mountain_path"
+    ],
+    "234": [
+        "root",
+        "outdoor, natural",
+        [
+            "water, ice, snow",
+            "mountains, hills, desert, sky"
+        ],
+        "/m/mountain_snowy"
+    ],
+    "235": [
+        "root",
+        "indoor",
+        "cultural (art, education, religion, millitary, law, politics, etc.)",
+        "/m/movie_theater/indoor"
+    ],
+    "236": [
+        "root",
+        "indoor",
+        "cultural (art, education, religion, millitary, law, politics, etc.)",
+        "/m/museum/indoor"
+    ],
+    "237": [
+        "root",
+        "outdoor, man-made",
+        "cultural or historical building/place (millitary, religious)",
+        "/m/museum/outdoor"
+    ],
+    "238": [
+        "root",
+        "indoor",
+        "cultural (art, education, religion, millitary, law, politics, etc.)",
+        "/m/music_studio"
+    ],
+    "239": [
+        "root",
+        "indoor",
+        "cultural (art, education, religion, millitary, law, politics, etc.)",
+        "/n/natural_history_museum"
+    ],
+    "240": [
+        "root",
+        "indoor",
+        "home or hotel",
+        "/n/nursery"
+    ],
+    "241": [
+        "root",
+        "indoor",
+        "home or hotel",
+        "/n/nursing_home"
+    ],
+    "242": [
+        "root",
+        "outdoor, man-made",
+        "cultural or historical building/place (millitary, religious)",
+        "/o/oast_house"
+    ],
+    "243": [
+        "root",
+        "outdoor, natural",
+        "water, ice, snow",
+        "/o/ocean"
+    ],
+    "244": [
+        "root",
+        "indoor",
+        "workplace (office building, factory, lab, etc.)",
+        "/o/office"
+    ],
+    "245": [
+        "root",
+        "outdoor, man-made",
+        "commercial buildings, shops, markets, cities, and towns",
+        "/o/office_building"
+    ],
+    "246": [
+        "root",
+        "indoor",
+        "workplace (office building, factory, lab, etc.)",
+        "/o/office_cubicles"
+    ],
+    "247": [
+        "root",
+        "outdoor, man-made",
+        "industrial and construction",
+        "/o/oilrig"
+    ],
+    "248": [
+        "root",
+        "indoor",
+        "workplace (office building, factory, lab, etc.)",
+        "/o/operating_room"
+    ],
+    "249": [
+        "root",
+        "outdoor, natural",
+        "forest, field, jungle",
+        "/o/orchard"
+    ],
+    "250": [
+        "root",
+        "indoor",
+        "cultural (art, education, religion, millitary, law, politics, etc.)",
+        "/o/orchestra_pit"
+    ],
+    "251": [
+        "root",
+        "outdoor, man-made",
+        "cultural or historical building/place (millitary, religious)",
+        "/p/pagoda"
+    ],
+    "252": [
+        "root",
+        "outdoor, man-made",
+        "cultural or historical building/place (millitary, religious)",
+        "/p/palace"
+    ],
+    "253": [
+        "root",
+        "indoor",
+        "home or hotel",
+        "/p/pantry"
+    ],
+    "254": [
+        "root",
+        [
+            "outdoor, natural",
+            "outdoor, man-made"
+        ],
+        [
+            "forest, field, jungle",
+            "man-made elements",
+            "sports fields, parks, leisure spaces"
+        ],
+        "/p/park"
+    ],
+    "255": [
+        "root",
+        "indoor",
+        "workplace (office building, factory, lab, etc.)",
+        "/p/parking_garage/indoor"
+    ],
+    "256": [
+        "root",
+        "outdoor, man-made",
+        [
+            "transportation (roads, parking, bridges, boats, airports, etc.)",
+            "commercial buildings, shops, markets, cities, and towns"
+        ],
+        "/p/parking_garage/outdoor"
+    ],
+    "257": [
+        "root",
+        "outdoor, man-made",
+        "transportation (roads, parking, bridges, boats, airports, etc.)",
+        "/p/parking_lot"
+    ],
+    "258": [
+        "root",
+        "outdoor, natural",
+        "forest, field, jungle",
+        "/p/pasture"
+    ],
+    "259": [
+        "root",
+        "outdoor, man-made",
+        "houses, cabins, gardens, and farms",
+        "/p/patio"
+    ],
+    "260": [
+        "root",
+        "outdoor, man-made",
+        "sports fields, parks, leisure spaces",
+        "/p/pavilion"
+    ],
+    "261": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/p/pet_shop"
+    ],
+    "262": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/p/pharmacy"
+    ],
+    "263": [
+        "root",
+        "outdoor, man-made",
+        "commercial buildings, shops, markets, cities, and towns",
+        "/p/phone_booth"
+    ],
+    "264": [
+        "root",
+        "indoor",
+        "workplace (office building, factory, lab, etc.)",
+        "/p/physics_laboratory"
+    ],
+    "265": [
+        "root",
+        [
+            "outdoor, natural",
+            "outdoor, man-made"
+        ],
+        [
+            "forest, field, jungle",
+            "man-made elements",
+            "sports fields, parks, leisure spaces"
+        ],
+        "/p/picnic_area"
+    ],
+    "266": [
+        "root",
+        "outdoor, man-made",
+        "transportation (roads, parking, bridges, boats, airports, etc.)",
+        "/p/pier"
+    ],
+    "267": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/p/pizzeria"
+    ],
+    "268": [
+        "root",
+        [
+            "outdoor, natural",
+            "outdoor, man-made"
+        ],
+        [
+            "forest, field, jungle",
+            "man-made elements",
+            "sports fields, parks, leisure spaces"
+        ],
+        "/p/playground"
+    ],
+    "269": [
+        "root",
+        "indoor",
+        "home or hotel",
+        "/p/playroom"
+    ],
+    "270": [
+        "root",
+        "outdoor, man-made",
+        [
+            "cultural or historical building/place (millitary, religious)",
+            "commercial buildings, shops, markets, cities, and towns"
+        ],
+        "/p/plaza"
+    ],
+    "271": [
+        "root",
+        "outdoor, natural",
+        "water, ice, snow",
+        "/p/pond"
+    ],
+    "272": [
+        "root",
+        "outdoor, man-made",
+        [
+            "sports fields, parks, leisure spaces",
+            "commercial buildings, shops, markets, cities, and towns"
+        ],
+        "/p/porch"
+    ],
+    "273": [
+        "root",
+        "outdoor, man-made",
+        "sports fields, parks, leisure spaces",
+        "/p/promenade"
+    ],
+    "274": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/p/pub/indoor"
+    ],
+    "275": [
+        "root",
+        "outdoor, man-made",
+        "sports fields, parks, leisure spaces",
+        "/r/racecourse"
+    ],
+    "276": [
+        "root",
+        "outdoor, man-made",
+        "sports fields, parks, leisure spaces",
+        "/r/raceway"
+    ],
+    "277": [
+        "root",
+        "outdoor, natural",
+        [
+            "water, ice, snow",
+            "man-made elements"
+        ],
+        "/r/raft"
+    ],
+    "278": [
+        "root",
+        "outdoor, man-made",
+        "transportation (roads, parking, bridges, boats, airports, etc.)",
+        "/r/railroad_track"
+    ],
+    "279": [
+        "root",
+        "outdoor, natural",
+        "forest, field, jungle",
+        "/r/rainforest"
+    ],
+    "280": [
+        "root",
+        "indoor",
+        "workplace (office building, factory, lab, etc.)",
+        "/r/reception"
+    ],
+    "281": [
+        "root",
+        "indoor",
+        "home or hotel",
+        "/r/recreation_room"
+    ],
+    "282": [
+        "root",
+        "indoor",
+        [
+            "outdoor, man-made",
+            "workplace (office building, factory, lab, etc.)"
+        ],
+        "/r/repair_shop"
+    ],
+    "283": [
+        "root",
+        "outdoor, man-made",
+        [
+            "houses, cabins, gardens, and farms",
+            "commercial buildings, shops, markets, cities, and towns"
+        ],
+        "/r/residential_neighborhood"
+    ],
+    "284": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/r/restaurant"
+    ],
+    "285": [
+        "root",
+        "indoor",
+        [
+            "outdoor, man-made",
+            "home or hotel"
+        ],
+        "/r/restaurant_kitchen"
+    ],
+    "286": [
+        "root",
+        "outdoor, man-made",
+        "commercial buildings, shops, markets, cities, and towns",
+        "/r/restaurant_patio"
+    ],
+    "287": [
+        "root",
+        [
+            "outdoor, natural",
+            "outdoor, man-made"
+        ],
+        [
+            "forest, field, jungle",
+            "man-made elements",
+            "houses, cabins, gardens, and farms"
+        ],
+        "/r/rice_paddy"
+    ],
+    "288": [
+        "root",
+        "outdoor, natural",
+        "water, ice, snow",
+        "/r/river"
+    ],
+    "289": [
+        "root",
+        "outdoor, natural",
+        "mountains, hills, desert, sky",
+        "/r/rock_arch"
+    ],
+    "290": [
+        "root",
+        "outdoor, man-made",
+        "houses, cabins, gardens, and farms",
+        "/r/roof_garden"
+    ],
+    "291": [
+        "root",
+        [
+            "outdoor, natural",
+            "outdoor, man-made"
+        ],
+        [
+            "man-made elements",
+            "sports fields, parks, leisure spaces"
+        ],
+        "/r/rope_bridge"
+    ],
+    "292": [
+        "root",
+        [
+            "outdoor, natural",
+            "outdoor, man-made"
+        ],
+        [
+            "man-made elements",
+            "cultural or historical building/place (millitary, religious)"
+        ],
+        "/r/ruin"
+    ],
+    "293": [
+        "root",
+        "outdoor, man-made",
+        "transportation (roads, parking, bridges, boats, airports, etc.)",
+        "/r/runway"
+    ],
+    "294": [
+        "root",
+        "outdoor, man-made",
+        "sports fields, parks, leisure spaces",
+        "/s/sandbox"
+    ],
+    "295": [
+        "root",
+        "indoor",
+        "sports and leisure",
+        "/s/sauna"
+    ],
+    "296": [
+        "root",
+        "outdoor, man-made",
+        "commercial buildings, shops, markets, cities, and towns",
+        "/s/schoolhouse"
+    ],
+    "297": [
+        "root",
+        "indoor",
+        "cultural (art, education, religion, millitary, law, politics, etc.)",
+        "/s/science_museum"
+    ],
+    "298": [
+        "root",
+        "indoor",
+        "workplace (office building, factory, lab, etc.)",
+        "/s/server_room"
+    ],
+    "299": [
+        "root",
+        "outdoor, man-made",
+        "houses, cabins, gardens, and farms",
+        "/s/shed"
+    ],
+    "300": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/s/shoe_shop"
+    ],
+    "301": [
+        "root",
+        "outdoor, man-made",
+        "commercial buildings, shops, markets, cities, and towns",
+        "/s/shopfront"
+    ],
+    "302": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/s/shopping_mall/indoor"
+    ],
+    "303": [
+        "root",
+        "indoor",
+        "home or hotel",
+        "/s/shower"
+    ],
+    "304": [
+        "root",
+        "outdoor, man-made",
+        "houses, cabins, gardens, and farms",
+        "/s/ski_resort"
+    ],
+    "305": [
+        "root",
+        [
+            "outdoor, natural",
+            "outdoor, man-made"
+        ],
+        [
+            "water, ice, snow",
+            "man-made elements",
+            "sports fields, parks, leisure spaces"
+        ],
+        "/s/ski_slope"
+    ],
+    "306": [
+        "root",
+        "outdoor, natural",
+        "mountains, hills, desert, sky",
+        "/s/sky"
+    ],
+    "307": [
+        "root",
+        "outdoor, man-made",
+        "commercial buildings, shops, markets, cities, and towns",
+        "/s/skyscraper"
+    ],
+    "308": [
+        "root",
+        "outdoor, man-made",
+        "commercial buildings, shops, markets, cities, and towns",
+        "/s/slum"
+    ],
+    "309": [
+        "root",
+        "outdoor, natural",
+        "water, ice, snow",
+        "/s/snowfield"
+    ],
+    "310": [
+        "root",
+        "outdoor, man-made",
+        "sports fields, parks, leisure spaces",
+        "/s/soccer_field"
+    ],
+    "311": [
+        "root",
+        "indoor",
+        [
+            "workplace (office building, factory, lab, etc.)",
+            "home or hotel"
+        ],
+        "/s/stable"
+    ],
+    "312": [
+        "root",
+        "outdoor, man-made",
+        "sports fields, parks, leisure spaces",
+        "/s/stadium/baseball"
+    ],
+    "313": [
+        "root",
+        "outdoor, man-made",
+        "sports fields, parks, leisure spaces",
+        "/s/stadium/football"
+    ],
+    "314": [
+        "root",
+        "outdoor, man-made",
+        "sports fields, parks, leisure spaces",
+        "/s/stadium/soccer"
+    ],
+    "315": [
+        "root",
+        "indoor",
+        "cultural (art, education, religion, millitary, law, politics, etc.)",
+        "/s/stage/indoor"
+    ],
+    "316": [
+        "root",
+        "outdoor, man-made",
+        "sports fields, parks, leisure spaces",
+        "/s/stage/outdoor"
+    ],
+    "317": [
+        "root",
+        "indoor",
+        [
+            "workplace (office building, factory, lab, etc.)",
+            "home or hotel"
+        ],
+        "/s/staircase"
+    ],
+    "318": [
+        "root",
+        "indoor",
+        "workplace (office building, factory, lab, etc.)",
+        "/s/storage_room"
+    ],
+    "319": [
+        "root",
+        "outdoor, man-made",
+        "commercial buildings, shops, markets, cities, and towns",
+        "/s/street"
+    ],
+    "320": [
+        "root",
+        "indoor",
+        "transportation (vehicle interiors, stations, etc.)",
+        "/s/subway_station/platform"
+    ],
+    "321": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/s/supermarket"
+    ],
+    "322": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/s/sushi_bar"
+    ],
+    "323": [
+        "root",
+        "outdoor, natural",
+        [
+            "water, ice, snow",
+            "forest, field, jungle"
+        ],
+        "/s/swamp"
+    ],
+    "324": [
+        "root",
+        "outdoor, natural",
+        "water, ice, snow",
+        "/s/swimming_hole"
+    ],
+    "325": [
+        "root",
+        "indoor",
+        "sports and leisure",
+        "/s/swimming_pool/indoor"
+    ],
+    "326": [
+        "root",
+        "outdoor, man-made",
+        "sports fields, parks, leisure spaces",
+        "/s/swimming_pool/outdoor"
+    ],
+    "327": [
+        "root",
+        "outdoor, man-made",
+        "cultural or historical building/place (millitary, religious)",
+        "/s/synagogue/outdoor"
+    ],
+    "328": [
+        "root",
+        "indoor",
+        "home or hotel",
+        "/t/television_room"
+    ],
+    "329": [
+        "root",
+        "indoor",
+        "cultural (art, education, religion, millitary, law, politics, etc.)",
+        "/t/television_studio"
+    ],
+    "330": [
+        "root",
+        "outdoor, man-made",
+        "cultural or historical building/place (millitary, religious)",
+        "/t/temple/asia"
+    ],
+    "331": [
+        "root",
+        "indoor",
+        "cultural (art, education, religion, millitary, law, politics, etc.)",
+        "/t/throne_room"
+    ],
+    "332": [
+        "root",
+        [
+            "indoor",
+            "outdoor, man-made"
+        ],
+        [
+            "outdoor, man-made",
+            "workplace (office building, factory, lab, etc.)",
+            "cultural (art, education, religion, millitary, law, politics, etc.)",
+            "commercial buildings, shops, markets, cities, and towns"
+        ],
+        "/t/ticket_booth"
+    ],
+    "333": [
+        "root",
+        [
+            "outdoor, natural",
+            "outdoor, man-made"
+        ],
+        [
+            "forest, field, jungle",
+            "man-made elements",
+            "houses, cabins, gardens, and farms"
+        ],
+        "/t/topiary_garden"
+    ],
+    "334": [
+        "root",
+        "outdoor, man-made",
+        "cultural or historical building/place (millitary, religious)",
+        "/t/tower"
+    ],
+    "335": [
+        "root",
+        "indoor",
+        "outdoor, man-made",
+        "/t/toyshop"
+    ],
+    "336": [
+        "root",
+        "indoor",
+        "transportation (vehicle interiors, stations, etc.)",
+        "/t/train_interior"
+    ],
+    "337": [
+        "root",
+        "indoor",
+        "transportation (vehicle interiors, stations, etc.)",
+        "/t/train_station/platform"
+    ],
+    "338": [
+        "root",
+        "outdoor, natural",
+        "forest, field, jungle",
+        "/t/tree_farm"
+    ],
+    "339": [
+        "root",
+        [
+            "outdoor, natural",
+            "outdoor, man-made"
+        ],
+        [
+            "forest, field, jungle",
+            "man-made elements",
+            "sports fields, parks, leisure spaces",
+            "houses, cabins, gardens, and farms"
+        ],
+        "/t/tree_house"
+    ],
+    "340": [
+        "root",
+        [
+            "outdoor, natural",
+            "outdoor, man-made"
+        ],
+        [
+            "man-made elements",
+            "industrial and construction"
+        ],
+        "/t/trench"
+    ],
+    "341": [
+        "root",
+        "outdoor, natural",
+        "mountains, hills, desert, sky",
+        "/t/tundra"
+    ],
+    "342": [
+        "root",
+        "outdoor, natural",
+        "water, ice, snow",
+        "/u/underwater/ocean_deep"
+    ],
+    "343": [
+        "root",
+        "indoor",
+        "home or hotel",
+        "/u/utility_room"
+    ],
+    "344": [
+        "root",
+        "outdoor, natural",
+        "mountains, hills, desert, sky",
+        "/v/valley"
+    ],
+    "345": [
+        "root",
+        [
+            "outdoor, natural",
+            "outdoor, man-made"
+        ],
+        [
+            "forest, field, jungle",
+            "man-made elements",
+            "houses, cabins, gardens, and farms"
+        ],
+        "/v/vegetable_garden"
+    ],
+    "346": [
+        "root",
+        "indoor",
+        "workplace (office building, factory, lab, etc.)",
+        "/v/veterinarians_office"
+    ],
+    "347": [
+        "root",
+        [
+            "outdoor, natural",
+            "outdoor, man-made"
+        ],
+        [
+            "man-made elements",
+            "cultural or historical building/place (millitary, religious)"
+        ],
+        "/v/viaduct"
+    ],
+    "348": [
+        "root",
+        "outdoor, man-made",
+        "commercial buildings, shops, markets, cities, and towns",
+        "/v/village"
+    ],
+    "349": [
+        "root",
+        [
+            "outdoor, natural",
+            "outdoor, man-made"
+        ],
+        [
+            "forest, field, jungle",
+            "man-made elements",
+            "houses, cabins, gardens, and farms"
+        ],
+        "/v/vineyard"
+    ],
+    "350": [
+        "root",
+        "outdoor, natural",
+        "mountains, hills, desert, sky",
+        "/v/volcano"
+    ],
+    "351": [
+        "root",
+        "outdoor, man-made",
+        "sports fields, parks, leisure spaces",
+        "/v/volleyball_court/outdoor"
+    ],
+    "352": [
+        "root",
+        "indoor",
+        "workplace (office building, factory, lab, etc.)",
+        "/w/waiting_room"
+    ],
+    "353": [
+        "root",
+        "outdoor, man-made",
+        "sports fields, parks, leisure spaces",
+        "/w/water_park"
+    ],
+    "354": [
+        "root",
+        "outdoor, man-made",
+        "industrial and construction",
+        "/w/water_tower"
+    ],
+    "355": [
+        "root",
+        "outdoor, natural",
+        "water, ice, snow",
+        "/w/waterfall"
+    ],
+    "356": [
+        "root",
+        "outdoor, natural",
+        "water, ice, snow",
+        "/w/watering_hole"
+    ],
+    "357": [
+        "root",
+        "outdoor, natural",
+        "water, ice, snow",
+        "/w/wave"
+    ],
+    "358": [
+        "root",
+        "indoor",
+        "home or hotel",
+        "/w/wet_bar"
+    ],
+    "359": [
+        "root",
+        "outdoor, natural",
+        "forest, field, jungle",
+        "/w/wheat_field"
+    ],
+    "360": [
+        "root",
+        [
+            "outdoor, natural",
+            "outdoor, man-made"
+        ],
+        [
+            "forest, field, jungle",
+            "man-made elements",
+            "industrial and construction"
+        ],
+        "/w/wind_farm"
+    ],
+    "361": [
+        "root",
+        "outdoor, man-made",
+        [
+            "cultural or historical building/place (millitary, religious)",
+            "industrial and construction",
+            "commercial buildings, shops, markets, cities, and towns"
+        ],
+        "/w/windmill"
+    ],
+    "362": [
+        "root",
+        [
+            "outdoor, natural",
+            "outdoor, man-made"
+        ],
+        [
+            "forest, field, jungle",
+            "man-made elements",
+            "houses, cabins, gardens, and farms"
+        ],
+        "/y/yard"
+    ],
+    "363": [
+        "root",
+        "indoor",
+        "home or hotel",
+        "/y/youth_hostel"
+    ],
+    "364": [
+        "root",
+        "outdoor, man-made",
+        "houses, cabins, gardens, and farms",
+        "/z/zen_garden"
+    ]
+}
