@@ -46,33 +46,36 @@ def get_labels(dataset: str):
     else:
         raise ValueError(f"Unknown dataset: {dataset}")
 
-def get_softlabel(name: str, tau=1.) -> torch.Tensor:
-    file_path = f'dataset/{name}.npy'
+
+def get_softlabel(name: str, tau=1.0) -> torch.Tensor:
+    file_path = f"dataset/{name}.npy"
     file_path = Path(file_path)
     assert file_path.exists(), f"Soft label file {file_path} does not exist."
-    lca_distance = np.load(file_path)
-    lca_distance = torch.from_numpy(lca_distance)
-    return torch.softmax(-lca_distance * tau, dim=-1)
+    lca_height = np.load(file_path)
+    lca_height = torch.from_numpy(lca_height)
+    return torch.softmax(-lca_height * tau, dim=-1)
 
 
-def test_time_ensemble(x: torch.Tensor, model: nn.Module|DistributedDataParallel):
+def test_time_ensemble(x: torch.Tensor, model: nn.Module | DistributedDataParallel):
     assert len(x.shape) == 5, "Input tensor must have 5 dimensions."
     bsz, ncrops, c, h, w = x.size()
-    x = x.view(bsz * ncrops, c, h, w)  
+    x = x.view(bsz * ncrops, c, h, w)
     outputs = model(x)
     if isinstance(outputs, dict):
         outputs["logit"] = outputs["logit"].view(bsz, ncrops, -1).mean(1)
-        outputs["image_features"] = outputs["image_features"].view(bsz, ncrops, -1).mean(1)
+        outputs["image_features"] = (
+            outputs["image_features"].view(bsz, ncrops, -1).mean(1)
+        )
     else:
         outputs = outputs.view(bsz, ncrops, -1).mean(1)
     return outputs
-    
 
-def process_eval_outputs(outputs: dict|torch.Tensor):
+
+def process_eval_outputs(outputs: dict | torch.Tensor):
     if isinstance(outputs, torch.Tensor):
         return outputs
 
-    logits = outputs.get('logit')
+    logits = outputs.get("logit")
     return logits
 
 
