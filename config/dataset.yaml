@@ -1,0 +1,17 @@
+data_root: /data/Newdisk/xugan/zjp/dataset
+doc_root: ./doc
+imagenet:
+  classname_txt: ImageNet-classname.txt
+  folder: ILSVRC2012
+  test_txt: ImageNet_LT_test.txt
+  train_txt: ImageNet_LT_train.txt
+inaturalist:
+  classname_json: iNaturalist18-categories.json
+  folder: inaturalist2018
+  test_txt: iNaturalist18_val.txt
+  train_txt: iNaturalist18_train.txt
+places:
+  classname_txt: Places-classname.txt
+  folder: places365
+  test_txt: Places_LT_test.txt
+  train_txt: Places_LT_train.txt

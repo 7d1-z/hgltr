@@ -1,0 +1,17 @@
+**.pyc
+**.log
+**.pt
+**.pth
+**.csv
+**.npy
+**.html
+.idea
+.ipynb_checkpoints
+.vscode
+/log
+**.png
+**.svg
+test.*
+test2.*
+**.0
+launch.sh
